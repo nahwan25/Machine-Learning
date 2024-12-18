@@ -1,0 +1,701 @@
+id,checking_balance,months_loan_duration,credit_history,purpose,amount,savings_balance,employment_duration,percent_of_income,years_at_residence,age,other_credit,housing,existing_loans_count,job,dependents,phone,default
+542,1 - 200 DM,12,critical,car,2366,500 - 1000 DM,4 - 7 years,3,3,36,none,own,1,management,1,yes,0
+441,1 - 200 DM,12,good,furniture/appliances,2930,< 100 DM,4 - 7 years,2,1,27,none,own,1,skilled,1,no,0
+483,unknown,12,critical,furniture/appliances,1240,unknown,> 7 years,4,2,38,none,own,2,skilled,1,yes,0
+423,1 - 200 DM,18,good,car,6260,< 100 DM,4 - 7 years,3,3,28,none,rent,1,unskilled,1,no,0
+779,unknown,12,good,furniture/appliances,1262,< 100 DM,1 - 4 years,3,2,25,none,own,1,skilled,1,no,0
+950,1 - 200 DM,48,very good,car,12169,unknown,unemployed,4,4,36,none,other,1,management,1,yes,0
+335,1 - 200 DM,36,very good,furniture/appliances,3990,unknown,< 1 year,3,2,29,bank,own,1,unemployed,1,no,0
+577,< 0 DM,36,good,education,1977,unknown,> 7 years,4,4,40,none,own,1,management,1,yes,1
+935,> 200 DM,24,good,furniture/appliances,1258,500 - 1000 DM,1 - 4 years,3,3,57,none,own,1,unskilled,1,no,0
+568,1 - 200 DM,36,critical,car,2820,< 100 DM,< 1 year,4,4,27,none,own,2,skilled,1,no,1
+595,unknown,12,critical,furniture/appliances,1258,< 100 DM,< 1 year,2,4,22,none,rent,2,unskilled,1,no,0
+531,1 - 200 DM,24,poor,business,6967,100 - 500 DM,4 - 7 years,4,4,36,none,rent,1,management,1,yes,0
+582,unknown,6,good,car,672,< 100 DM,unemployed,1,4,54,none,own,1,unemployed,1,yes,0
+708,< 0 DM,15,good,car,3959,< 100 DM,1 - 4 years,3,2,29,none,own,1,skilled,1,yes,1
+449,> 200 DM,24,good,furniture/appliances,1925,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,no,0
+454,1 - 200 DM,9,good,car,3195,unknown,1 - 4 years,1,2,33,none,own,1,unskilled,1,no,0
+229,unknown,6,critical,car,362,100 - 500 DM,1 - 4 years,4,4,52,none,own,2,unskilled,1,no,0
+353,unknown,4,critical,furniture/appliances,1544,< 100 DM,4 - 7 years,2,1,42,none,own,3,unskilled,2,no,0
+729,< 0 DM,10,critical,car,1038,< 100 DM,4 - 7 years,4,3,49,none,own,2,skilled,1,yes,0
+213,unknown,6,good,car,1236,500 - 1000 DM,1 - 4 years,2,4,50,none,rent,1,skilled,1,no,0
+80,1 - 200 DM,7,good,furniture/appliances,2415,< 100 DM,1 - 4 years,3,2,34,none,own,1,skilled,1,no,0
+149,1 - 200 DM,48,perfect,business,12204,unknown,1 - 4 years,2,2,48,bank,own,1,management,1,yes,0
+303,unknown,18,good,furniture/appliances,1126,unknown,< 1 year,4,2,21,none,rent,1,skilled,1,yes,0
+629,> 200 DM,15,good,furniture/appliances,2327,< 100 DM,< 1 year,2,3,25,none,own,1,unskilled,1,no,1
+778,unknown,21,critical,car,3275,< 100 DM,> 7 years,1,4,36,none,own,1,management,1,yes,0
+507,unknown,6,good,car,3518,< 100 DM,1 - 4 years,2,3,26,none,rent,1,skilled,1,no,0
+343,unknown,12,good,car,1101,< 100 DM,1 - 4 years,3,2,27,none,own,2,skilled,1,yes,0
+486,1 - 200 DM,48,good,furniture/appliances,5951,< 100 DM,1 - 4 years,2,2,22,none,own,1,skilled,1,no,1
+712,< 0 DM,30,critical,car,10623,< 100 DM,> 7 years,3,4,38,none,other,3,management,2,yes,0
+134,unknown,15,critical,furniture/appliances,1829,< 100 DM,> 7 years,4,4,46,none,own,2,skilled,1,yes,0
+704,1 - 200 DM,9,good,furniture/appliances,918,< 100 DM,1 - 4 years,4,1,30,none,own,1,skilled,1,no,1
+312,unknown,12,good,furniture/appliances,1574,< 100 DM,1 - 4 years,4,2,50,none,own,1,skilled,1,no,0
+723,unknown,24,good,furniture/appliances,999,unknown,> 7 years,4,2,25,none,own,2,skilled,1,no,0
+630,1 - 200 DM,12,good,furniture/appliances,766,500 - 1000 DM,1 - 4 years,4,3,66,none,own,1,unskilled,1,no,1
+1,< 0 DM,12,good,furniture/appliances,1858,< 100 DM,< 1 year,4,1,22,none,rent,1,skilled,1,no,0
+317,> 200 DM,36,good,furniture/appliances,4210,< 100 DM,1 - 4 years,4,2,26,none,own,1,skilled,1,no,1
+707,1 - 200 DM,12,good,furniture/appliances,1155,< 100 DM,> 7 years,3,3,40,bank,own,2,unskilled,1,no,0
+548,unknown,6,good,furniture/appliances,4611,< 100 DM,< 1 year,1,4,32,none,own,1,skilled,1,no,1
+873,1 - 200 DM,18,good,car,5866,100 - 500 DM,1 - 4 years,2,2,30,none,own,2,skilled,1,yes,0
+533,< 0 DM,24,good,furniture/appliances,1987,< 100 DM,1 - 4 years,2,4,21,none,rent,1,unskilled,2,no,1
+478,unknown,24,good,furniture/appliances,1533,< 100 DM,< 1 year,4,3,38,store,own,1,skilled,1,yes,0
+405,unknown,15,critical,furniture/appliances,1459,< 100 DM,1 - 4 years,4,2,43,none,own,1,unskilled,1,no,0
+173,< 0 DM,24,good,car,2964,unknown,> 7 years,4,4,49,bank,other,1,skilled,2,yes,0
+126,unknown,15,critical,education,1532,100 - 500 DM,1 - 4 years,4,3,31,none,own,1,skilled,1,no,0
+395,unknown,24,critical,furniture/appliances,5150,< 100 DM,> 7 years,4,4,33,none,own,1,skilled,1,yes,0
+421,< 0 DM,42,good,furniture/appliances,3965,< 100 DM,< 1 year,4,3,34,none,own,1,skilled,1,no,1
+553,< 0 DM,18,critical,car,3966,< 100 DM,> 7 years,1,4,33,bank,rent,3,skilled,1,yes,1
+904,unknown,14,poor,car,802,< 100 DM,1 - 4 years,4,2,27,none,own,2,unskilled,1,no,0
+91,unknown,48,poor,furniture/appliances,7238,unknown,> 7 years,3,3,32,bank,own,2,skilled,2,no,0
+940,1 - 200 DM,14,good,business,1410,500 - 1000 DM,> 7 years,1,2,35,none,own,1,skilled,1,yes,0
+182,1 - 200 DM,15,very good,car,6850,100 - 500 DM,unemployed,1,2,34,none,own,1,management,2,yes,1
+275,unknown,9,good,business,1449,< 100 DM,4 - 7 years,3,2,27,none,own,2,skilled,1,no,0
+896,1 - 200 DM,18,good,car,12976,< 100 DM,unemployed,3,4,38,none,other,1,management,1,yes,1
+70,1 - 200 DM,24,good,furniture/appliances,3758,500 - 1000 DM,unemployed,1,4,23,none,rent,1,unemployed,1,no,0
+292,unknown,24,good,furniture/appliances,1413,< 100 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,0
+132,unknown,12,critical,car,682,100 - 500 DM,4 - 7 years,4,3,51,none,own,2,skilled,1,yes,0
+301,< 0 DM,18,good,furniture/appliances,2462,< 100 DM,1 - 4 years,2,2,22,none,own,1,skilled,1,no,1
+425,unknown,6,critical,furniture/appliances,700,unknown,> 7 years,4,4,36,none,other,2,skilled,1,no,0
+327,< 0 DM,24,good,car,3123,< 100 DM,< 1 year,4,1,27,none,own,1,skilled,1,no,1
+145,1 - 200 DM,15,poor,renovations,1512,> 1000 DM,1 - 4 years,3,3,61,store,own,2,skilled,1,no,1
+424,unknown,12,good,furniture/appliances,3059,> 1000 DM,4 - 7 years,2,4,61,none,own,1,unskilled,1,no,0
+581,> 200 DM,24,good,furniture/appliances,3749,< 100 DM,< 1 year,2,4,26,none,own,1,skilled,1,no,0
+136,< 0 DM,36,good,car,8335,unknown,> 7 years,3,4,47,none,other,1,skilled,1,no,1
+451,unknown,4,critical,car,3380,< 100 DM,4 - 7 years,1,1,37,none,own,1,skilled,2,no,0
+165,unknown,10,good,car,2901,unknown,< 1 year,1,4,31,none,rent,1,skilled,1,no,0
+29,1 - 200 DM,15,good,furniture/appliances,802,< 100 DM,> 7 years,4,3,37,none,own,1,skilled,2,no,1
+774,1 - 200 DM,9,very good,car,5129,< 100 DM,> 7 years,2,4,74,bank,other,1,management,2,yes,1
+194,> 200 DM,24,critical,business,1275,> 1000 DM,1 - 4 years,2,4,36,none,own,2,skilled,1,yes,0
+389,1 - 200 DM,12,critical,car,1995,100 - 500 DM,< 1 year,4,1,27,none,own,1,skilled,1,no,0
+853,1 - 200 DM,9,good,education,1199,< 100 DM,4 - 7 years,4,4,67,none,own,2,management,1,yes,0
+170,< 0 DM,30,good,furniture/appliances,6350,unknown,> 7 years,4,4,31,none,own,1,skilled,1,no,1
+706,< 0 DM,30,critical,car,6187,100 - 500 DM,4 - 7 years,1,4,24,none,rent,2,skilled,1,no,0
+141,< 0 DM,15,perfect,car,950,< 100 DM,> 7 years,4,3,33,none,rent,2,skilled,2,no,1
+174,unknown,12,good,education,1393,< 100 DM,> 7 years,4,4,47,bank,own,3,skilled,2,yes,0
+7,> 200 DM,18,very good,furniture/appliances,1445,unknown,4 - 7 years,4,4,49,bank,own,1,unskilled,1,no,0
+746,unknown,36,critical,furniture/appliances,9566,< 100 DM,1 - 4 years,2,2,31,store,own,2,skilled,1,no,0
+479,unknown,6,critical,furniture/appliances,1554,< 100 DM,4 - 7 years,1,2,24,none,rent,2,skilled,1,yes,0
+74,1 - 200 DM,30,critical,furniture/appliances,8386,< 100 DM,4 - 7 years,2,2,49,none,own,1,skilled,1,no,1
+911,< 0 DM,8,critical,car,731,< 100 DM,> 7 years,4,4,47,none,own,2,unskilled,1,no,0
+814,1 - 200 DM,8,good,business,907,< 100 DM,< 1 year,3,2,26,none,own,1,skilled,1,yes,0
+239,unknown,24,poor,car,4679,< 100 DM,4 - 7 years,3,3,35,none,own,2,unskilled,1,yes,0
+146,< 0 DM,12,good,furniture/appliances,1289,< 100 DM,1 - 4 years,4,1,21,none,own,1,unskilled,1,no,0
+793,< 0 DM,6,good,car,662,< 100 DM,< 1 year,3,4,41,none,own,1,unskilled,2,yes,0
+235,1 - 200 DM,20,poor,car,7057,unknown,4 - 7 years,3,4,36,bank,rent,2,management,2,yes,0
+221,< 0 DM,18,good,education,750,< 100 DM,unemployed,4,1,27,none,own,1,unemployed,1,no,1
+924,1 - 200 DM,36,poor,business,4455,< 100 DM,1 - 4 years,2,2,30,store,own,2,management,1,yes,1
+501,< 0 DM,24,very good,car,3632,< 100 DM,1 - 4 years,1,4,22,bank,rent,1,skilled,1,no,0
+133,unknown,11,critical,car,7228,< 100 DM,1 - 4 years,1,4,39,none,own,2,unskilled,1,no,0
+991,1 - 200 DM,36,poor,business,9857,100 - 500 DM,4 - 7 years,1,3,31,none,own,2,unskilled,2,yes,0
+775,< 0 DM,24,good,furniture/appliances,1603,< 100 DM,> 7 years,4,4,55,none,own,1,skilled,1,no,0
+186,unknown,15,good,furniture/appliances,1386,unknown,1 - 4 years,4,2,40,none,rent,1,skilled,1,yes,0
+42,unknown,9,good,furniture/appliances,2697,< 100 DM,1 - 4 years,1,2,32,none,own,1,skilled,2,no,0
+697,unknown,6,critical,furniture/appliances,1898,unknown,1 - 4 years,1,2,34,none,own,2,unskilled,2,no,0
+109,unknown,24,good,car,1469,100 - 500 DM,> 7 years,4,4,41,none,rent,1,unskilled,1,no,0
+589,unknown,21,good,furniture/appliances,3160,unknown,> 7 years,4,3,41,none,own,1,skilled,1,yes,0
+57,unknown,18,critical,furniture/appliances,1149,> 1000 DM,1 - 4 years,4,3,46,none,own,2,skilled,1,no,0
+406,unknown,27,good,renovations,5190,unknown,> 7 years,4,4,48,none,own,4,skilled,2,yes,0
+443,1 - 200 DM,18,good,business,4439,< 100 DM,> 7 years,1,1,33,bank,own,1,management,1,yes,0
+758,< 0 DM,18,very good,furniture/appliances,1553,< 100 DM,1 - 4 years,4,3,44,bank,own,1,skilled,1,no,1
+998,unknown,21,critical,car,12680,unknown,> 7 years,4,4,30,none,other,1,management,1,yes,1
+25,unknown,12,good,furniture/appliances,2171,< 100 DM,< 1 year,2,2,29,bank,own,1,skilled,1,no,0
+468,unknown,18,good,car,2662,unknown,4 - 7 years,4,3,32,none,own,1,skilled,1,no,0
+540,unknown,36,critical,furniture/appliances,3342,unknown,> 7 years,4,2,51,none,own,1,skilled,1,yes,0
+532,> 200 DM,30,poor,business,1908,< 100 DM,> 7 years,4,4,66,none,own,1,management,1,yes,1
+619,unknown,12,critical,furniture/appliances,2331,unknown,> 7 years,1,4,49,none,own,1,skilled,1,yes,0
+695,< 0 DM,6,very good,education,1198,< 100 DM,> 7 years,4,4,35,none,other,1,skilled,1,no,1
+927,< 0 DM,15,good,business,806,< 100 DM,1 - 4 years,4,4,22,none,own,1,unskilled,1,no,0
+339,unknown,18,good,renovations,1943,< 100 DM,< 1 year,4,4,23,none,own,1,skilled,1,no,1
+52,unknown,18,critical,car,2775,< 100 DM,4 - 7 years,2,2,31,bank,own,2,skilled,1,no,1
+508,unknown,48,good,business,3914,unknown,1 - 4 years,4,2,38,bank,own,1,skilled,1,no,1
+517,unknown,12,critical,education,3565,unknown,< 1 year,2,1,37,none,own,2,unskilled,2,no,0
+921,unknown,12,critical,furniture/appliances,1402,500 - 1000 DM,4 - 7 years,3,4,37,none,rent,1,skilled,1,yes,0
+782,unknown,30,critical,furniture/appliances,3077,unknown,> 7 years,3,2,40,none,own,2,skilled,2,yes,0
+265,unknown,18,critical,education,1864,100 - 500 DM,1 - 4 years,4,2,30,none,own,2,skilled,1,no,1
+818,1 - 200 DM,36,good,furniture/appliances,9034,100 - 500 DM,< 1 year,4,1,29,none,rent,1,management,1,yes,1
+711,unknown,12,critical,education,2748,< 100 DM,> 7 years,2,4,57,bank,other,3,unskilled,1,no,0
+683,unknown,18,critical,furniture/appliances,1582,> 1000 DM,> 7 years,4,4,46,none,own,2,skilled,1,no,0
+833,1 - 200 DM,12,good,furniture/appliances,2762,unknown,> 7 years,1,2,25,bank,own,1,skilled,1,yes,1
+519,unknown,6,poor,furniture/appliances,932,< 100 DM,1 - 4 years,3,2,24,none,own,1,skilled,1,no,0
+448,> 200 DM,24,good,furniture/appliances,5152,< 100 DM,4 - 7 years,4,2,25,bank,own,1,skilled,1,no,0
+19,1 - 200 DM,24,good,furniture/appliances,5084,unknown,> 7 years,2,4,42,none,own,1,skilled,1,yes,0
+716,< 0 DM,12,critical,furniture/appliances,385,< 100 DM,4 - 7 years,4,3,58,none,own,4,unskilled,1,yes,0
+484,> 200 DM,12,poor,car,2247,< 100 DM,1 - 4 years,2,2,36,store,own,2,skilled,1,yes,0
+569,1 - 200 DM,7,good,furniture/appliances,2329,< 100 DM,< 1 year,1,1,45,none,own,1,skilled,1,no,0
+434,unknown,10,good,car,1597,500 - 1000 DM,1 - 4 years,3,2,40,none,rent,1,unskilled,2,no,0
+368,1 - 200 DM,9,good,furniture/appliances,790,500 - 1000 DM,1 - 4 years,4,3,66,none,own,1,unskilled,1,no,0
+84,unknown,18,critical,car,1055,< 100 DM,< 1 year,4,1,30,none,own,2,skilled,1,no,0
+62,< 0 DM,12,good,furniture/appliances,1282,< 100 DM,1 - 4 years,2,4,20,none,rent,1,skilled,1,no,1
+639,> 200 DM,18,good,car,1961,< 100 DM,> 7 years,3,2,23,none,own,1,management,1,no,0
+273,1 - 200 DM,24,good,furniture/appliances,2039,< 100 DM,< 1 year,1,1,22,none,own,1,skilled,1,yes,1
+286,unknown,10,critical,car,1231,< 100 DM,> 7 years,3,4,32,none,own,2,unskilled,2,no,0
+361,< 0 DM,18,good,furniture/appliances,2473,< 100 DM,unemployed,4,1,25,none,own,1,unemployed,1,no,1
+355,unknown,24,critical,renovations,5507,< 100 DM,> 7 years,3,4,44,none,other,2,skilled,1,no,0
+457,< 0 DM,42,poor,furniture/appliances,4370,< 100 DM,4 - 7 years,3,2,26,bank,own,2,skilled,2,yes,1
+279,unknown,18,critical,car,1530,< 100 DM,1 - 4 years,3,2,32,bank,own,2,skilled,1,no,1
+13,1 - 200 DM,24,critical,business,1935,< 100 DM,> 7 years,4,4,31,none,own,2,skilled,1,yes,1
+183,unknown,15,good,furniture/appliances,1979,unknown,> 7 years,4,2,35,none,own,1,skilled,1,no,0
+369,unknown,18,good,furniture/appliances,433,< 100 DM,unemployed,3,4,22,none,rent,1,skilled,1,no,1
+882,unknown,9,critical,car,1224,< 100 DM,1 - 4 years,3,1,30,none,own,2,skilled,1,no,0
+616,unknown,30,very good,car,7485,unknown,unemployed,4,1,53,bank,own,1,management,1,yes,1
+224,unknown,11,good,business,2142,> 1000 DM,> 7 years,1,2,28,none,own,1,skilled,1,yes,0
+573,1 - 200 DM,24,good,car,11560,< 100 DM,1 - 4 years,1,4,23,none,rent,2,management,1,no,1
+971,< 0 DM,24,poor,furniture/appliances,1024,< 100 DM,< 1 year,4,4,48,store,own,1,skilled,1,no,1
+654,unknown,12,good,furniture/appliances,1736,< 100 DM,4 - 7 years,3,4,31,none,own,1,unskilled,1,no,0
+546,1 - 200 DM,21,good,business,2767,100 - 500 DM,> 7 years,4,2,61,bank,rent,2,unskilled,1,no,1
+583,< 0 DM,24,good,furniture/appliances,2439,< 100 DM,< 1 year,4,4,35,none,own,1,skilled,1,yes,1
+634,1 - 200 DM,18,critical,furniture/appliances,1795,< 100 DM,> 7 years,3,4,48,bank,rent,2,unskilled,1,yes,0
+177,1 - 200 DM,18,poor,business,2427,unknown,> 7 years,4,2,42,none,own,2,skilled,1,no,0
+666,unknown,15,critical,furniture/appliances,1471,< 100 DM,1 - 4 years,4,4,35,none,other,2,skilled,1,yes,0
+674,1 - 200 DM,60,poor,furniture/appliances,9157,unknown,1 - 4 years,2,2,27,none,other,1,management,1,no,0
+586,unknown,18,good,car,6761,unknown,1 - 4 years,2,4,68,none,rent,2,skilled,1,no,1
+874,unknown,24,good,car,2670,< 100 DM,> 7 years,4,4,35,none,own,1,management,1,yes,0
+394,unknown,21,poor,car,2993,< 100 DM,1 - 4 years,3,2,28,store,own,2,unskilled,1,no,0
+164,< 0 DM,48,good,car,3931,< 100 DM,4 - 7 years,4,4,46,none,other,1,skilled,2,no,1
+249,unknown,12,good,furniture/appliances,707,< 100 DM,1 - 4 years,4,2,30,bank,own,2,skilled,1,no,0
+635,< 0 DM,18,good,furniture/appliances,3509,< 100 DM,4 - 7 years,4,1,25,none,own,1,skilled,1,no,0
+886,< 0 DM,14,good,car,3973,< 100 DM,unemployed,1,4,22,none,other,1,skilled,1,no,0
+670,unknown,18,good,furniture/appliances,1984,< 100 DM,1 - 4 years,4,4,47,bank,other,2,skilled,1,no,0
+376,1 - 200 DM,30,poor,business,2503,100 - 500 DM,> 7 years,4,2,41,store,own,2,skilled,1,no,0
+413,unknown,9,critical,education,936,500 - 1000 DM,> 7 years,4,2,52,none,own,2,skilled,1,yes,0
+75,> 200 DM,12,good,furniture/appliances,1881,< 100 DM,1 - 4 years,2,2,44,none,rent,1,unskilled,1,yes,0
+114,1 - 200 DM,12,good,furniture/appliances,625,< 100 DM,< 1 year,4,1,26,bank,own,1,unskilled,1,no,0
+599,1 - 200 DM,12,good,car,2002,< 100 DM,4 - 7 years,3,4,30,none,rent,1,skilled,2,yes,0
+962,1 - 200 DM,18,good,furniture/appliances,866,< 100 DM,1 - 4 years,4,2,25,none,own,1,unskilled,1,no,0
+391,unknown,10,good,furniture/appliances,2210,< 100 DM,1 - 4 years,2,2,25,bank,rent,1,unskilled,1,no,1
+105,< 0 DM,30,perfect,business,8072,unknown,< 1 year,2,3,25,bank,own,3,skilled,1,no,0
+115,unknown,15,critical,furniture/appliances,1360,< 100 DM,1 - 4 years,4,2,31,none,own,2,skilled,1,no,0
+418,unknown,15,good,car,3186,> 1000 DM,4 - 7 years,2,3,20,none,rent,1,skilled,1,no,0
+526,< 0 DM,30,good,furniture/appliances,2522,< 100 DM,> 7 years,1,3,39,none,own,1,skilled,2,no,0
+458,< 0 DM,12,good,car,900,unknown,1 - 4 years,4,2,23,none,own,1,skilled,1,no,1
+410,unknown,12,very good,education,3447,500 - 1000 DM,1 - 4 years,4,3,35,none,own,1,unskilled,2,no,0
+93,1 - 200 DM,16,critical,car,1175,< 100 DM,unemployed,2,3,68,none,other,3,unemployed,1,yes,0
+931,> 200 DM,36,good,furniture/appliances,5848,< 100 DM,1 - 4 years,4,1,24,none,own,1,skilled,1,no,0
+90,> 200 DM,36,good,furniture/appliances,4473,< 100 DM,> 7 years,4,2,31,none,own,1,skilled,1,no,0
+337,1 - 200 DM,45,good,furniture/appliances,3031,100 - 500 DM,1 - 4 years,4,4,21,none,rent,1,skilled,1,no,1
+989,1 - 200 DM,24,poor,car,1965,unknown,1 - 4 years,4,4,42,none,rent,2,skilled,1,yes,0
+922,< 0 DM,24,good,furniture/appliances,1747,< 100 DM,< 1 year,4,1,24,none,own,1,unskilled,1,no,0
+934,1 - 200 DM,15,good,renovations,1308,< 100 DM,> 7 years,4,4,38,none,own,2,unskilled,1,no,0
+606,unknown,6,good,education,1238,unknown,unemployed,4,4,36,none,own,1,management,2,yes,0
+594,1 - 200 DM,72,good,furniture/appliances,5595,100 - 500 DM,1 - 4 years,2,2,24,none,own,1,skilled,1,no,1
+612,1 - 200 DM,24,good,car,4113,500 - 1000 DM,< 1 year,3,4,28,none,rent,1,skilled,1,no,1
+95,unknown,21,poor,furniture/appliances,1591,100 - 500 DM,4 - 7 years,4,3,34,none,own,2,management,1,no,0
+12,1 - 200 DM,30,good,furniture/appliances,2991,unknown,> 7 years,2,4,25,none,own,1,skilled,1,no,0
+397,unknown,12,good,car,3527,unknown,< 1 year,2,3,45,none,own,1,management,2,yes,0
+534,unknown,24,critical,furniture/appliances,1851,< 100 DM,4 - 7 years,4,2,33,none,own,2,skilled,1,yes,0
+44,unknown,48,poor,furniture/appliances,12749,500 - 1000 DM,4 - 7 years,4,1,37,none,own,1,management,1,yes,0
+43,unknown,12,critical,business,1412,< 100 DM,1 - 4 years,4,2,29,none,own,2,management,1,yes,0
+330,1 - 200 DM,6,poor,car,1209,< 100 DM,unemployed,4,4,47,none,own,1,management,1,yes,1
+168,< 0 DM,24,critical,car,1199,< 100 DM,> 7 years,4,4,60,none,own,2,unskilled,1,no,1
+498,unknown,12,critical,business,1264,unknown,> 7 years,4,4,57,none,rent,1,unskilled,1,no,0
+877,1 - 200 DM,24,good,furniture/appliances,2896,100 - 500 DM,< 1 year,2,1,29,none,own,1,skilled,1,no,0
+598,unknown,24,critical,car,3868,< 100 DM,> 7 years,4,2,41,none,rent,2,management,1,yes,0
+757,unknown,12,critical,furniture/appliances,797,unknown,> 7 years,4,3,33,bank,own,1,unskilled,2,no,1
+101,unknown,10,good,car,1418,100 - 500 DM,1 - 4 years,3,2,35,none,rent,1,unskilled,1,no,0
+427,< 0 DM,60,poor,business,6836,< 100 DM,> 7 years,3,4,63,none,own,2,skilled,1,yes,1
+179,< 0 DM,6,critical,furniture/appliances,3384,< 100 DM,1 - 4 years,1,4,44,none,rent,1,management,1,yes,1
+445,unknown,18,critical,furniture/appliances,1817,< 100 DM,1 - 4 years,4,2,28,none,own,2,skilled,1,no,0
+417,1 - 200 DM,18,poor,furniture/appliances,4297,< 100 DM,> 7 years,4,3,40,none,own,1,management,1,yes,1
+871,< 0 DM,12,very good,furniture/appliances,626,< 100 DM,1 - 4 years,4,4,24,bank,own,1,unskilled,1,no,1
+883,1 - 200 DM,12,perfect,furniture/appliances,2969,< 100 DM,< 1 year,4,3,25,none,rent,2,skilled,1,no,1
+681,< 0 DM,20,critical,car,2235,< 100 DM,1 - 4 years,4,2,33,bank,rent,2,skilled,1,no,1
+178,unknown,24,critical,business,4526,< 100 DM,1 - 4 years,3,2,74,none,own,1,management,1,yes,0
+396,unknown,54,perfect,car,9436,unknown,1 - 4 years,2,2,39,none,own,1,unskilled,2,no,0
+912,unknown,15,poor,furniture/appliances,1478,< 100 DM,1 - 4 years,4,3,33,bank,own,2,skilled,1,no,0
+794,< 0 DM,18,good,furniture/appliances,4153,< 100 DM,1 - 4 years,2,3,42,none,own,1,skilled,1,no,1
+961,< 0 DM,36,good,furniture/appliances,3620,< 100 DM,1 - 4 years,1,2,37,none,own,1,skilled,2,no,0
+685,unknown,24,critical,car,5804,> 1000 DM,1 - 4 years,4,2,27,none,own,2,skilled,1,no,0
+384,< 0 DM,12,good,education,795,< 100 DM,< 1 year,4,4,53,none,own,1,skilled,1,no,1
+957,unknown,18,good,business,1568,100 - 500 DM,1 - 4 years,3,4,24,none,rent,1,unskilled,1,no,0
+752,< 0 DM,45,good,furniture/appliances,1845,< 100 DM,1 - 4 years,4,4,23,none,other,1,skilled,1,yes,1
+258,unknown,36,poor,business,7980,unknown,< 1 year,4,4,27,none,rent,2,skilled,1,yes,1
+539,< 0 DM,24,critical,car,6419,< 100 DM,> 7 years,2,4,44,none,other,2,management,2,yes,0
+336,1 - 200 DM,18,good,education,1239,unknown,1 - 4 years,4,4,61,none,other,1,skilled,1,no,0
+16,1 - 200 DM,21,poor,car,2353,< 100 DM,1 - 4 years,1,4,47,none,own,2,skilled,1,no,0
+325,1 - 200 DM,36,perfect,furniture/appliances,3804,< 100 DM,1 - 4 years,4,1,42,none,own,1,skilled,1,yes,1
+759,< 0 DM,36,good,car,3249,< 100 DM,4 - 7 years,2,4,39,bank,other,1,management,2,yes,0
+223,< 0 DM,24,good,furniture/appliances,4169,< 100 DM,1 - 4 years,4,4,28,none,own,1,skilled,1,no,0
+180,unknown,10,good,car,2848,100 - 500 DM,1 - 4 years,1,2,32,none,own,1,skilled,2,no,0
+984,unknown,60,good,car,6527,unknown,1 - 4 years,4,4,34,none,other,1,skilled,2,yes,0
+23,unknown,24,critical,car,2346,< 100 DM,4 - 7 years,4,3,35,none,own,2,skilled,1,yes,0
+357,< 0 DM,24,good,furniture/appliances,3234,< 100 DM,< 1 year,4,4,23,none,rent,1,unskilled,1,yes,1
+667,unknown,6,critical,furniture/appliances,1740,< 100 DM,> 7 years,2,2,30,none,rent,2,skilled,1,no,0
+862,< 0 DM,18,good,furniture/appliances,2600,< 100 DM,1 - 4 years,4,4,65,none,other,2,skilled,1,no,1
+341,< 0 DM,6,good,furniture/appliances,1374,< 100 DM,1 - 4 years,1,2,36,bank,own,1,unskilled,1,yes,0
+432,unknown,15,critical,furniture/appliances,1520,unknown,> 7 years,4,4,63,none,own,1,skilled,1,no,0
+552,< 0 DM,60,good,business,7297,< 100 DM,> 7 years,4,4,36,none,rent,1,skilled,1,no,1
+834,< 0 DM,36,good,car,5493,< 100 DM,> 7 years,2,4,42,none,other,1,skilled,2,no,0
+204,1 - 200 DM,15,good,car,2631,100 - 500 DM,1 - 4 years,2,4,28,none,rent,2,skilled,1,yes,1
+631,unknown,18,critical,furniture/appliances,6070,< 100 DM,> 7 years,3,4,33,none,own,2,skilled,1,yes,0
+94,unknown,6,very good,furniture/appliances,1750,500 - 1000 DM,> 7 years,2,4,45,bank,own,1,unskilled,2,no,0
+559,unknown,24,good,furniture/appliances,1376,500 - 1000 DM,4 - 7 years,4,1,28,none,own,1,skilled,1,no,0
+69,< 0 DM,12,good,car,1228,< 100 DM,1 - 4 years,4,2,24,none,own,1,unskilled,1,no,1
+623,< 0 DM,24,very good,furniture/appliances,1546,< 100 DM,4 - 7 years,4,4,24,bank,rent,1,unskilled,1,no,1
+285,< 0 DM,9,critical,car,2799,< 100 DM,1 - 4 years,2,2,36,none,rent,2,skilled,2,no,0
+845,1 - 200 DM,9,good,furniture/appliances,1082,< 100 DM,> 7 years,4,4,27,none,own,2,unskilled,1,no,0
+435,1 - 200 DM,12,good,furniture/appliances,1331,< 100 DM,< 1 year,2,1,22,store,own,1,skilled,1,no,1
+154,< 0 DM,18,critical,furniture/appliances,2124,< 100 DM,1 - 4 years,4,4,24,none,rent,2,skilled,1,no,1
+76,> 200 DM,6,critical,education,1047,< 100 DM,1 - 4 years,2,4,50,none,own,1,unskilled,1,no,0
+731,unknown,10,good,car,1309,unknown,1 - 4 years,4,4,27,none,own,1,unskilled,1,no,1
+447,1 - 200 DM,48,good,car,6560,100 - 500 DM,4 - 7 years,3,2,24,none,own,1,skilled,1,no,1
+189,< 0 DM,12,critical,car,2122,< 100 DM,1 - 4 years,3,2,39,none,rent,2,unskilled,2,no,0
+272,< 0 DM,24,good,car,2924,< 100 DM,1 - 4 years,3,4,63,bank,own,1,skilled,2,yes,0
+237,unknown,24,critical,education,1597,< 100 DM,> 7 years,4,4,54,none,other,2,skilled,2,no,0
+488,unknown,15,critical,furniture/appliances,3343,< 100 DM,1 - 4 years,4,2,28,none,other,1,skilled,1,yes,0
+118,1 - 200 DM,9,critical,furniture/appliances,1919,< 100 DM,4 - 7 years,4,3,35,none,rent,1,skilled,1,yes,0
+944,unknown,36,good,furniture/appliances,3835,unknown,> 7 years,2,4,45,none,own,1,unskilled,1,yes,0
+513,1 - 200 DM,6,good,furniture/appliances,484,< 100 DM,4 - 7 years,3,3,28,bank,own,1,unskilled,1,no,0
+826,< 0 DM,24,good,car,2812,unknown,> 7 years,2,4,26,none,rent,1,skilled,1,no,0
+592,unknown,6,good,furniture/appliances,2108,< 100 DM,4 - 7 years,2,2,29,none,rent,1,skilled,1,no,0
+127,unknown,10,good,education,894,unknown,4 - 7 years,4,3,40,none,own,1,skilled,1,yes,0
+117,unknown,15,good,furniture/appliances,2708,< 100 DM,< 1 year,2,3,27,bank,own,2,unskilled,1,no,0
+474,unknown,6,perfect,furniture/appliances,426,< 100 DM,> 7 years,4,4,39,none,own,1,unskilled,1,no,0
+694,unknown,15,good,car,3812,100 - 500 DM,< 1 year,1,4,23,none,own,1,skilled,1,yes,0
+58,< 0 DM,12,good,furniture/appliances,1680,500 - 1000 DM,> 7 years,3,1,35,none,own,1,skilled,1,no,0
+864,1 - 200 DM,36,critical,furniture/appliances,2337,< 100 DM,> 7 years,4,4,36,none,own,1,skilled,1,no,0
+913,< 0 DM,24,poor,furniture/appliances,1659,< 100 DM,< 1 year,4,2,29,none,rent,1,unskilled,1,yes,1
+370,1 - 200 DM,48,perfect,business,3844,100 - 500 DM,4 - 7 years,4,4,34,none,other,1,unskilled,2,no,1
+269,1 - 200 DM,18,good,renovations,3872,< 100 DM,unemployed,2,4,67,none,own,1,skilled,1,yes,0
+47,< 0 DM,18,perfect,business,3104,< 100 DM,4 - 7 years,3,1,31,bank,own,1,skilled,1,yes,0
+350,< 0 DM,36,good,car0,15857,< 100 DM,unemployed,2,3,43,none,own,1,management,1,no,0
+196,unknown,36,critical,car,5711,> 1000 DM,> 7 years,4,2,38,none,own,2,management,1,yes,0
+1000,< 0 DM,36,good,furniture/appliances,5179,< 100 DM,4 - 7 years,4,2,29,none,own,1,skilled,1,no,1
+835,unknown,18,good,furniture/appliances,2515,< 100 DM,1 - 4 years,3,4,43,none,own,1,skilled,1,yes,0
+737,1 - 200 DM,36,good,car,6948,< 100 DM,1 - 4 years,2,2,35,none,rent,1,management,1,yes,0
+264,1 - 200 DM,36,poor,car,8086,100 - 500 DM,> 7 years,2,4,42,none,own,4,management,1,yes,1
+444,unknown,15,poor,car,3594,< 100 DM,< 1 year,1,2,46,none,own,2,unskilled,1,no,0
+676,1 - 200 DM,12,critical,car,958,< 100 DM,4 - 7 years,2,3,47,none,own,2,unskilled,2,no,0
+305,< 0 DM,21,good,furniture/appliances,2606,< 100 DM,< 1 year,4,4,28,none,rent,1,management,1,yes,0
+342,> 200 DM,24,good,furniture/appliances,2892,< 100 DM,> 7 years,3,4,51,none,other,1,skilled,1,no,0
+967,1 - 200 DM,45,critical,furniture/appliances,4746,< 100 DM,< 1 year,4,2,25,none,own,2,unskilled,1,no,1
+150,< 0 DM,18,good,car,4380,100 - 500 DM,1 - 4 years,3,4,35,none,own,1,unskilled,2,yes,0
+125,unknown,15,critical,furniture/appliances,1316,500 - 1000 DM,1 - 4 years,2,2,47,none,own,2,unskilled,1,no,0
+787,< 0 DM,24,critical,business,1382,100 - 500 DM,4 - 7 years,4,1,26,none,own,2,skilled,1,yes,0
+51,1 - 200 DM,54,perfect,business,15945,< 100 DM,< 1 year,3,4,58,none,rent,1,skilled,1,yes,1
+354,unknown,24,poor,business,2978,unknown,1 - 4 years,4,4,32,none,own,2,skilled,2,yes,0
+928,< 0 DM,18,critical,renovations,1190,< 100 DM,unemployed,2,4,55,none,other,3,unemployed,2,no,1
+143,< 0 DM,12,good,car,1372,< 100 DM,4 - 7 years,2,3,36,none,own,1,skilled,1,no,1
+471,< 0 DM,9,good,car,1422,< 100 DM,< 1 year,3,2,27,none,other,1,management,1,yes,1
+400,< 0 DM,30,good,renovations,11998,< 100 DM,< 1 year,1,1,34,none,own,1,unskilled,1,yes,1
+626,< 0 DM,24,good,car,6579,< 100 DM,unemployed,4,2,29,none,other,1,management,1,yes,0
+321,unknown,24,critical,business,4139,100 - 500 DM,1 - 4 years,3,3,27,none,own,2,unskilled,1,yes,0
+20,unknown,24,poor,car,717,unknown,> 7 years,4,4,54,none,own,2,skilled,1,yes,0
+810,1 - 200 DM,24,good,car,1201,< 100 DM,< 1 year,4,1,26,none,own,1,skilled,1,no,0
+791,unknown,21,good,furniture/appliances,2241,< 100 DM,> 7 years,4,2,50,none,own,2,skilled,1,no,0
+809,< 0 DM,12,critical,car,1526,< 100 DM,> 7 years,4,4,66,none,other,2,management,1,no,0
+408,< 0 DM,24,very good,car,2325,100 - 500 DM,4 - 7 years,2,3,32,bank,own,1,skilled,1,no,0
+538,unknown,15,good,car,5324,500 - 1000 DM,> 7 years,1,4,35,none,other,1,skilled,1,no,0
+621,1 - 200 DM,12,good,car,1007,> 1000 DM,1 - 4 years,4,1,22,none,own,1,skilled,1,no,0
+39,< 0 DM,48,good,car,4788,< 100 DM,4 - 7 years,4,3,26,none,own,1,skilled,2,no,0
+176,1 - 200 DM,48,poor,education,6224,< 100 DM,> 7 years,4,4,50,none,other,1,skilled,1,no,1
+246,1 - 200 DM,18,critical,furniture/appliances,1295,< 100 DM,< 1 year,4,1,27,none,own,2,skilled,1,no,0
+829,unknown,18,critical,furniture/appliances,1800,< 100 DM,1 - 4 years,4,2,24,none,own,2,skilled,1,no,0
+668,< 0 DM,9,critical,furniture/appliances,1138,< 100 DM,1 - 4 years,4,4,25,none,own,2,unskilled,1,no,0
+755,< 0 DM,24,perfect,furniture/appliances,4110,< 100 DM,> 7 years,3,4,23,bank,rent,2,skilled,2,no,1
+859,unknown,6,good,education,1538,< 100 DM,< 1 year,1,2,56,none,own,1,skilled,1,no,0
+155,unknown,24,good,furniture/appliances,2397,500 - 1000 DM,> 7 years,3,2,35,bank,own,2,skilled,1,yes,1
+288,unknown,24,critical,car,2197,unknown,4 - 7 years,4,4,43,none,own,2,skilled,2,yes,0
+603,1 - 200 DM,12,critical,furniture/appliances,3617,< 100 DM,> 7 years,1,4,28,none,rent,3,skilled,1,yes,0
+570,unknown,24,critical,car,1287,> 1000 DM,> 7 years,4,4,37,none,own,2,skilled,1,yes,0
+744,unknown,36,good,furniture/appliances,3349,< 100 DM,1 - 4 years,4,2,28,none,own,1,management,1,yes,1
+18,1 - 200 DM,9,very good,car,1437,100 - 500 DM,4 - 7 years,2,3,29,none,own,1,skilled,1,no,1
+128,1 - 200 DM,24,very good,education,1837,< 100 DM,4 - 7 years,4,4,34,bank,other,1,unskilled,1,no,1
+323,1 - 200 DM,24,good,furniture/appliances,4057,< 100 DM,4 - 7 years,3,3,43,none,own,1,skilled,1,yes,1
+256,1 - 200 DM,21,good,furniture/appliances,3976,unknown,4 - 7 years,2,3,35,none,own,1,skilled,1,yes,0
+658,1 - 200 DM,24,poor,furniture/appliances,6403,< 100 DM,< 1 year,1,2,33,none,own,1,skilled,1,no,0
+965,unknown,12,critical,furniture/appliances,522,500 - 1000 DM,> 7 years,4,4,42,none,own,2,skilled,2,yes,0
+191,1 - 200 DM,18,good,furniture/appliances,1113,< 100 DM,1 - 4 years,4,4,26,none,own,1,unskilled,2,no,0
+116,unknown,4,critical,car,1455,< 100 DM,4 - 7 years,2,1,42,none,own,3,unskilled,2,no,0
+617,< 0 DM,10,critical,car,2241,< 100 DM,< 1 year,1,3,48,none,rent,2,unskilled,2,no,0
+607,< 0 DM,48,perfect,furniture/appliances,7119,< 100 DM,1 - 4 years,3,4,53,none,other,2,skilled,2,no,1
+181,< 0 DM,18,critical,furniture/appliances,1880,< 100 DM,4 - 7 years,4,1,32,none,own,2,management,1,yes,0
+302,1 - 200 DM,9,good,furniture/appliances,2118,< 100 DM,1 - 4 years,2,2,37,none,own,1,unskilled,2,no,0
+760,1 - 200 DM,48,good,furniture/appliances,3979,unknown,4 - 7 years,4,1,41,none,own,2,skilled,2,yes,0
+713,unknown,11,critical,furniture/appliances,1154,100 - 500 DM,unemployed,4,4,57,none,own,3,unskilled,1,no,0
+724,1 - 200 DM,18,critical,furniture/appliances,1245,< 100 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,no,1
+686,1 - 200 DM,9,good,car,276,< 100 DM,1 - 4 years,4,4,22,none,rent,1,unskilled,1,no,0
+980,< 0 DM,36,good,car,1842,< 100 DM,< 1 year,4,4,34,none,own,1,skilled,1,yes,1
+518,unknown,28,very good,car,7824,unknown,< 1 year,3,4,40,bank,rent,2,skilled,2,yes,0
+985,> 200 DM,21,critical,education,2319,< 100 DM,< 1 year,2,1,33,none,rent,1,skilled,1,no,1
+46,unknown,24,critical,furniture/appliances,2872,100 - 500 DM,> 7 years,3,4,36,none,own,1,skilled,2,yes,0
+910,unknown,36,poor,car,10875,< 100 DM,> 7 years,2,2,45,none,own,2,skilled,2,yes,0
+158,< 0 DM,24,poor,car,1333,< 100 DM,unemployed,4,2,43,none,other,2,skilled,2,no,1
+852,1 - 200 DM,24,good,furniture/appliances,3069,100 - 500 DM,> 7 years,4,4,30,none,other,1,skilled,1,no,0
+172,unknown,24,poor,car,2032,< 100 DM,> 7 years,4,4,60,none,other,2,skilled,1,yes,0
+17,unknown,12,perfect,furniture/appliances,2759,< 100 DM,> 7 years,2,4,34,none,own,2,skilled,1,no,0
+512,unknown,12,good,furniture/appliances,2279,unknown,1 - 4 years,4,4,37,none,other,1,skilled,1,yes,0
+49,unknown,24,poor,furniture/appliances,4151,100 - 500 DM,1 - 4 years,2,3,35,none,own,2,skilled,1,no,0
+972,1 - 200 DM,27,poor,car,5965,< 100 DM,> 7 years,1,2,30,none,own,2,management,1,yes,0
+941,unknown,24,critical,furniture/appliances,2578,> 1000 DM,> 7 years,2,2,34,none,own,1,skilled,1,no,0
+516,unknown,18,critical,car,3850,< 100 DM,4 - 7 years,3,1,27,none,own,2,skilled,1,no,0
+953,unknown,21,good,car,2782,500 - 1000 DM,4 - 7 years,1,2,31,bank,own,1,management,1,no,0
+481,unknown,6,very good,car,783,unknown,1 - 4 years,1,2,26,store,own,1,unskilled,2,no,0
+284,1 - 200 DM,9,good,furniture/appliances,1670,< 100 DM,< 1 year,4,2,22,none,own,1,skilled,1,yes,1
+719,< 0 DM,6,critical,car,3676,< 100 DM,1 - 4 years,1,3,37,none,rent,3,skilled,2,no,0
+878,unknown,15,good,education,4623,100 - 500 DM,1 - 4 years,3,2,40,none,own,1,management,1,yes,1
+226,unknown,24,poor,business,8648,< 100 DM,< 1 year,2,2,27,bank,own,2,skilled,1,yes,1
+27,> 200 DM,12,good,car,1330,< 100 DM,< 1 year,4,1,26,none,own,1,skilled,1,no,0
+955,unknown,18,critical,furniture/appliances,2238,< 100 DM,1 - 4 years,2,1,25,none,own,2,skilled,1,no,0
+438,> 200 DM,9,perfect,furniture/appliances,1337,< 100 DM,< 1 year,4,2,34,none,own,2,management,1,yes,1
+952,> 200 DM,24,good,furniture/appliances,1377,100 - 500 DM,> 7 years,4,2,47,none,other,1,skilled,1,yes,0
+365,> 200 DM,12,good,furniture/appliances,2251,< 100 DM,1 - 4 years,1,2,46,none,own,1,unskilled,1,no,0
+230,< 0 DM,6,critical,car,860,< 100 DM,> 7 years,1,4,39,none,own,2,skilled,1,yes,0
+38,unknown,60,good,furniture/appliances,10144,100 - 500 DM,4 - 7 years,2,4,21,none,own,1,skilled,1,yes,0
+966,< 0 DM,18,very good,furniture/appliances,1940,< 100 DM,< 1 year,3,4,36,bank,other,1,management,1,yes,0
+375,< 0 DM,20,good,furniture/appliances,2212,unknown,4 - 7 years,4,4,39,none,own,1,skilled,1,yes,0
+470,< 0 DM,12,very good,car,697,< 100 DM,< 1 year,4,2,46,bank,own,2,skilled,1,yes,1
+968,1 - 200 DM,36,perfect,business,1953,< 100 DM,> 7 years,4,4,61,none,other,1,management,1,yes,1
+851,1 - 200 DM,24,good,car,2718,< 100 DM,1 - 4 years,3,4,20,none,rent,1,unskilled,1,yes,1
+705,unknown,24,good,furniture/appliances,2835,500 - 1000 DM,> 7 years,3,4,53,none,own,1,skilled,1,no,0
+842,1 - 200 DM,18,good,car,1042,unknown,1 - 4 years,4,2,33,none,own,1,skilled,1,no,1
+195,unknown,27,critical,furniture/appliances,4526,> 1000 DM,< 1 year,4,2,32,store,own,2,unskilled,2,yes,0
+855,< 0 DM,36,critical,furniture/appliances,6229,< 100 DM,< 1 year,4,4,23,none,rent,2,unskilled,1,yes,1
+865,1 - 200 DM,24,poor,furniture/appliances,2064,< 100 DM,unemployed,3,2,34,none,own,1,management,1,yes,1
+504,1 - 200 DM,18,perfect,furniture/appliances,3244,< 100 DM,1 - 4 years,1,4,33,bank,own,2,skilled,1,yes,0
+970,< 0 DM,9,good,furniture/appliances,1366,< 100 DM,< 1 year,3,4,22,none,rent,1,skilled,1,no,1
+831,< 0 DM,24,good,furniture/appliances,2359,100 - 500 DM,unemployed,1,1,33,none,own,1,skilled,1,no,1
+580,< 0 DM,12,good,car,3386,< 100 DM,> 7 years,3,4,35,none,other,1,skilled,1,yes,1
+969,< 0 DM,9,critical,renovations,1288,100 - 500 DM,> 7 years,3,4,48,none,own,2,skilled,2,no,0
+163,unknown,24,good,furniture/appliances,1901,100 - 500 DM,1 - 4 years,4,4,29,none,rent,1,management,1,yes,0
+909,unknown,10,good,education,727,500 - 1000 DM,> 7 years,4,4,46,none,other,1,skilled,1,yes,0
+153,1 - 200 DM,60,good,education,6288,< 100 DM,1 - 4 years,4,4,42,none,other,1,skilled,1,no,1
+802,< 0 DM,24,very good,furniture/appliances,3552,< 100 DM,4 - 7 years,3,4,27,bank,own,1,skilled,1,no,1
+994,1 - 200 DM,12,good,car,685,< 100 DM,4 - 7 years,2,3,25,bank,own,1,unskilled,1,no,1
+756,1 - 200 DM,24,critical,furniture/appliances,1743,< 100 DM,> 7 years,4,2,48,none,own,2,unskilled,1,no,0
+112,unknown,12,critical,car,1255,< 100 DM,> 7 years,4,4,61,none,own,2,unskilled,1,no,0
+227,unknown,24,good,furniture/appliances,1278,< 100 DM,> 7 years,4,1,36,none,own,1,management,1,yes,0
+689,unknown,10,good,car,1287,unknown,> 7 years,4,2,45,none,own,1,unskilled,1,no,0
+104,unknown,48,critical,education,6110,< 100 DM,1 - 4 years,1,3,31,bank,other,1,skilled,1,yes,0
+422,< 0 DM,48,very good,business,7685,< 100 DM,4 - 7 years,2,4,37,none,rent,1,skilled,1,no,1
+420,unknown,12,critical,furniture/appliances,976,unknown,> 7 years,4,4,35,none,own,2,skilled,1,no,0
+751,1 - 200 DM,18,good,business,1941,> 1000 DM,1 - 4 years,4,2,35,none,own,1,unskilled,1,yes,0
+587,< 0 DM,12,good,furniture/appliances,7865,< 100 DM,> 7 years,4,4,53,none,other,1,management,1,yes,1
+781,> 200 DM,12,good,furniture/appliances,1424,unknown,> 7 years,3,4,55,none,own,1,management,1,yes,0
+673,1 - 200 DM,12,poor,furniture/appliances,585,< 100 DM,1 - 4 years,4,4,20,none,rent,2,skilled,1,no,0
+120,< 0 DM,24,good,car,2303,< 100 DM,> 7 years,4,1,45,none,own,1,skilled,1,no,1
+54,< 0 DM,18,good,car,1216,< 100 DM,< 1 year,4,3,23,none,rent,1,skilled,1,yes,1
+152,unknown,24,good,education,937,< 100 DM,< 1 year,4,3,27,none,own,2,unskilled,1,no,0
+404,unknown,36,critical,car,11054,unknown,1 - 4 years,4,2,30,none,own,1,management,1,yes,0
+946,< 0 DM,11,critical,car,3905,< 100 DM,1 - 4 years,2,2,36,none,rent,2,skilled,2,no,0
+208,unknown,36,good,education,9055,unknown,1 - 4 years,2,4,35,none,other,1,unskilled,2,yes,0
+659,unknown,18,critical,furniture/appliances,2404,< 100 DM,1 - 4 years,2,2,26,none,own,2,skilled,1,no,0
+844,1 - 200 DM,12,good,furniture/appliances,1922,< 100 DM,1 - 4 years,4,2,37,none,own,1,unskilled,1,no,1
+763,1 - 200 DM,10,good,furniture/appliances,1521,< 100 DM,1 - 4 years,4,2,31,none,own,1,unskilled,1,no,0
+9,< 0 DM,12,critical,car,691,< 100 DM,> 7 years,4,3,35,none,own,2,skilled,1,no,1
+808,1 - 200 DM,36,poor,car,2225,< 100 DM,> 7 years,4,4,57,bank,other,2,skilled,1,yes,1
+37,unknown,12,critical,car,926,< 100 DM,unemployed,1,2,38,none,own,1,unemployed,1,no,0
+453,< 0 DM,45,perfect,business,11816,< 100 DM,> 7 years,2,4,29,none,rent,2,skilled,1,no,1
+652,1 - 200 DM,12,good,car,6078,< 100 DM,4 - 7 years,2,2,32,none,own,1,skilled,1,no,0
+254,1 - 200 DM,15,critical,furniture/appliances,2728,unknown,4 - 7 years,4,2,35,bank,own,3,skilled,1,yes,0
+304,unknown,18,good,furniture/appliances,1473,< 100 DM,< 1 year,3,4,39,none,own,1,skilled,1,yes,0
+747,< 0 DM,12,good,education,684,< 100 DM,1 - 4 years,4,4,40,none,rent,1,unskilled,2,no,1
+572,1 - 200 DM,6,good,furniture/appliances,753,< 100 DM,1 - 4 years,2,3,64,none,own,1,skilled,1,no,0
+624,unknown,39,good,car,8588,100 - 500 DM,> 7 years,4,2,45,none,own,1,management,1,yes,0
+733,unknown,30,critical,furniture/appliances,5954,< 100 DM,4 - 7 years,3,2,38,none,own,1,skilled,1,no,0
+892,unknown,15,good,furniture/appliances,1262,500 - 1000 DM,4 - 7 years,4,3,36,none,own,2,skilled,1,yes,0
+263,1 - 200 DM,24,good,car,12579,< 100 DM,> 7 years,4,2,44,none,other,1,management,1,yes,1
+611,1 - 200 DM,27,perfect,business,8318,< 100 DM,> 7 years,2,4,42,none,other,2,management,1,yes,1
+298,< 0 DM,18,good,furniture/appliances,2389,< 100 DM,< 1 year,4,1,27,store,own,1,skilled,1,no,0
+415,1 - 200 DM,15,critical,furniture/appliances,1537,unknown,> 7 years,4,4,50,none,own,2,skilled,1,yes,0
+151,unknown,12,good,furniture/appliances,776,< 100 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,0
+789,< 0 DM,15,critical,furniture/appliances,975,< 100 DM,1 - 4 years,2,3,25,none,own,2,skilled,1,no,0
+641,1 - 200 DM,42,very good,car,9283,< 100 DM,unemployed,1,2,55,bank,other,1,management,1,yes,0
+890,1 - 200 DM,6,good,car,14555,unknown,unemployed,1,2,23,none,own,1,unemployed,1,yes,1
+551,unknown,24,good,car,3757,< 100 DM,> 7 years,4,4,62,none,other,1,skilled,1,yes,0
+887,unknown,6,critical,furniture/appliances,1382,< 100 DM,1 - 4 years,1,1,28,none,own,2,skilled,1,yes,0
+489,unknown,28,critical,furniture/appliances,2743,< 100 DM,> 7 years,4,2,29,none,own,2,skilled,1,no,0
+148,unknown,36,poor,business,9572,< 100 DM,< 1 year,1,1,28,none,own,2,skilled,1,no,1
+147,1 - 200 DM,18,critical,business,3590,< 100 DM,unemployed,3,3,40,none,own,3,unemployed,2,yes,0
+721,unknown,6,poor,business,1743,100 - 500 DM,1 - 4 years,1,2,34,none,own,2,unskilled,1,no,0
+932,unknown,24,critical,furniture/appliances,5103,< 100 DM,< 1 year,3,3,47,none,other,3,skilled,1,yes,0
+740,< 0 DM,6,good,car,1352,500 - 1000 DM,unemployed,1,2,23,none,rent,1,unemployed,1,yes,0
+660,1 - 200 DM,11,good,furniture/appliances,1577,> 1000 DM,< 1 year,4,1,20,none,own,1,skilled,1,no,0
+349,< 0 DM,18,poor,education,8471,unknown,1 - 4 years,1,2,23,none,rent,2,skilled,1,yes,0
+464,< 0 DM,6,good,furniture/appliances,2647,500 - 1000 DM,1 - 4 years,2,3,44,none,rent,1,skilled,2,no,0
+326,< 0 DM,18,good,furniture/appliances,1882,< 100 DM,1 - 4 years,4,4,25,bank,rent,2,skilled,1,no,1
+187,< 0 DM,21,good,car,3763,unknown,4 - 7 years,2,2,24,none,own,1,unskilled,1,no,0
+124,unknown,12,good,car,1386,500 - 1000 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,no,1
+854,1 - 200 DM,42,critical,business,5954,< 100 DM,4 - 7 years,2,1,41,bank,own,2,unskilled,1,no,0
+609,unknown,12,critical,furniture/appliances,1291,< 100 DM,1 - 4 years,4,2,35,none,own,2,skilled,1,no,0
+144,< 0 DM,15,poor,furniture/appliances,3643,< 100 DM,> 7 years,1,4,27,none,own,2,unskilled,1,no,0
+959,< 0 DM,18,good,furniture/appliances,1131,< 100 DM,unemployed,4,2,33,none,own,1,skilled,1,no,1
+198,1 - 200 DM,6,good,furniture/appliances,1068,< 100 DM,> 7 years,4,4,28,none,own,1,skilled,2,no,0
+610,unknown,9,critical,car,2134,< 100 DM,1 - 4 years,4,4,48,none,own,3,skilled,1,yes,0
+280,< 0 DM,6,good,car,1374,unknown,unemployed,4,3,75,none,own,1,management,1,yes,0
+294,unknown,24,good,furniture/appliances,3972,< 100 DM,4 - 7 years,2,4,25,none,rent,1,skilled,1,yes,0
+401,unknown,9,good,furniture/appliances,1980,< 100 DM,< 1 year,2,2,19,none,rent,2,skilled,1,no,1
+123,unknown,12,good,furniture/appliances,2073,100 - 500 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,0
+184,unknown,10,good,car,1364,< 100 DM,1 - 4 years,2,4,64,none,own,1,skilled,1,yes,0
+203,unknown,12,poor,car,1503,< 100 DM,1 - 4 years,4,4,41,none,rent,1,skilled,1,no,0
+439,1 - 200 DM,24,good,car,1355,< 100 DM,< 1 year,3,4,25,none,own,1,unskilled,1,yes,1
+247,unknown,24,critical,car0,6314,< 100 DM,unemployed,4,2,27,bank,own,2,management,1,yes,0
+416,< 0 DM,15,critical,furniture/appliances,1478,< 100 DM,> 7 years,4,4,44,none,own,2,skilled,2,yes,0
+933,< 0 DM,27,perfect,business,5293,< 100 DM,unemployed,2,4,50,store,own,2,skilled,1,yes,1
+766,unknown,36,critical,furniture/appliances,7127,< 100 DM,< 1 year,2,4,23,none,rent,2,skilled,1,yes,1
+907,< 0 DM,36,poor,education,6887,< 100 DM,1 - 4 years,4,3,29,store,own,1,skilled,1,yes,1
+836,1 - 200 DM,18,good,furniture/appliances,3001,< 100 DM,4 - 7 years,2,4,40,none,rent,1,skilled,1,no,0
+888,unknown,36,good,furniture/appliances,2299,500 - 1000 DM,> 7 years,4,4,39,none,own,1,skilled,1,no,0
+130,unknown,12,good,furniture/appliances,804,< 100 DM,> 7 years,4,4,38,none,own,1,skilled,1,no,0
+638,1 - 200 DM,6,poor,furniture/appliances,1050,< 100 DM,unemployed,4,1,35,store,own,2,management,1,yes,0
+403,1 - 200 DM,9,good,furniture/appliances,2030,unknown,4 - 7 years,2,1,24,none,own,1,skilled,1,yes,0
+785,unknown,36,critical,business,6304,unknown,> 7 years,4,4,36,none,own,2,skilled,1,no,0
+771,unknown,9,good,furniture/appliances,1313,< 100 DM,> 7 years,1,4,20,none,own,1,skilled,1,no,0
+736,< 0 DM,18,good,car,2249,100 - 500 DM,4 - 7 years,4,3,30,none,own,1,management,2,yes,0
+914,< 0 DM,12,good,furniture/appliances,2214,< 100 DM,1 - 4 years,4,3,24,none,own,1,unskilled,1,no,0
+220,> 200 DM,10,good,car,1240,100 - 500 DM,> 7 years,1,4,48,none,other,1,unskilled,2,no,1
+642,1 - 200 DM,18,good,furniture/appliances,3213,500 - 1000 DM,< 1 year,1,3,25,none,rent,1,skilled,1,no,0
+916,unknown,24,critical,furniture/appliances,2611,< 100 DM,> 7 years,4,3,46,none,own,2,skilled,1,no,0
+753,> 200 DM,12,good,furniture/appliances,1474,< 100 DM,< 1 year,4,1,33,bank,own,1,management,1,yes,0
+807,1 - 200 DM,36,good,furniture/appliances,4795,< 100 DM,< 1 year,4,1,30,none,own,1,management,1,yes,0
+920,< 0 DM,18,very good,car,1442,< 100 DM,4 - 7 years,4,4,32,none,other,2,unskilled,2,no,1
+625,< 0 DM,24,good,car,1381,unknown,1 - 4 years,4,2,35,none,own,1,skilled,1,no,1
+875,1 - 200 DM,21,critical,business,3652,< 100 DM,4 - 7 years,2,3,27,none,own,2,skilled,1,no,0
+761,< 0 DM,18,good,furniture/appliances,1936,unknown,4 - 7 years,2,4,23,none,rent,2,unskilled,1,no,0
+387,< 0 DM,12,good,car,2579,< 100 DM,< 1 year,4,1,33,none,own,1,unskilled,2,no,1
+973,1 - 200 DM,9,good,furniture/appliances,458,< 100 DM,1 - 4 years,4,3,24,none,own,1,skilled,1,no,0
+510,unknown,18,good,furniture/appliances,1533,< 100 DM,< 1 year,4,1,43,none,own,1,unskilled,2,no,1
+268,unknown,24,poor,business,2375,500 - 1000 DM,1 - 4 years,4,2,44,none,own,2,skilled,2,yes,0
+820,< 0 DM,21,poor,education,3414,< 100 DM,< 1 year,2,1,26,none,own,2,skilled,1,no,1
+442,> 200 DM,9,good,furniture/appliances,745,< 100 DM,1 - 4 years,3,2,28,none,own,1,unskilled,1,no,1
+497,unknown,12,critical,business,1185,< 100 DM,1 - 4 years,3,2,27,none,own,2,skilled,1,no,0
+113,1 - 200 DM,12,good,furniture/appliances,983,> 1000 DM,< 1 year,1,4,19,none,rent,1,unskilled,1,no,0
+692,unknown,12,good,furniture/appliances,763,< 100 DM,1 - 4 years,4,1,26,none,own,1,skilled,1,yes,0
+233,unknown,22,good,car,1283,unknown,4 - 7 years,4,4,25,none,rent,1,skilled,1,no,0
+870,unknown,12,critical,furniture/appliances,618,< 100 DM,> 7 years,4,4,56,none,own,1,skilled,1,no,0
+608,< 0 DM,24,good,furniture/appliances,1938,< 100 DM,< 1 year,4,3,32,none,own,1,skilled,1,no,1
+672,1 - 200 DM,30,perfect,business,4280,100 - 500 DM,1 - 4 years,4,4,26,none,rent,2,unskilled,1,no,1
+374,1 - 200 DM,9,good,business,1391,< 100 DM,1 - 4 years,2,1,27,bank,own,1,skilled,1,yes,0
+982,1 - 200 DM,12,good,furniture/appliances,1534,< 100 DM,< 1 year,1,1,23,none,rent,1,skilled,1,no,1
+843,> 200 DM,15,good,education,1905,< 100 DM,> 7 years,4,4,40,none,rent,1,management,1,yes,0
+234,unknown,18,good,car,1820,< 100 DM,1 - 4 years,2,2,30,none,own,1,management,1,yes,0
+786,1 - 200 DM,15,very good,car,1264,100 - 500 DM,1 - 4 years,2,2,25,none,rent,1,skilled,1,no,1
+677,unknown,12,critical,business,2292,< 100 DM,unemployed,4,2,42,store,own,2,management,1,yes,1
+318,unknown,10,good,car,1546,< 100 DM,1 - 4 years,3,2,31,none,own,1,unskilled,2,no,0
+649,< 0 DM,15,good,furniture/appliances,1275,unknown,1 - 4 years,4,2,24,none,rent,1,skilled,1,no,1
+411,> 200 DM,6,good,car,709,> 1000 DM,< 1 year,2,2,27,none,own,1,unemployed,1,no,0
+899,< 0 DM,12,good,furniture/appliances,727,100 - 500 DM,< 1 year,4,3,33,none,own,1,unskilled,1,yes,1
+710,unknown,36,good,education,1819,< 100 DM,1 - 4 years,4,4,37,store,other,1,skilled,1,yes,1
+359,1 - 200 DM,12,critical,car,3124,< 100 DM,< 1 year,1,3,49,bank,own,2,unskilled,2,no,0
+259,< 0 DM,48,good,furniture/appliances,6758,< 100 DM,1 - 4 years,3,2,31,none,own,1,skilled,1,yes,1
+745,> 200 DM,24,critical,car,1344,unknown,4 - 7 years,4,2,37,bank,own,2,unskilled,2,no,1
+628,1 - 200 DM,24,good,car,3512,100 - 500 DM,4 - 7 years,2,3,38,bank,own,2,skilled,1,yes,0
+633,1 - 200 DM,9,good,car,1549,unknown,< 1 year,4,2,35,none,own,1,unemployed,1,no,0
+283,1 - 200 DM,48,perfect,car0,18424,< 100 DM,1 - 4 years,1,2,32,bank,own,1,management,1,yes,1
+377,1 - 200 DM,9,critical,furniture/appliances,1154,< 100 DM,> 7 years,2,4,37,none,own,3,unskilled,1,no,0
+385,unknown,12,critical,education,2012,unknown,4 - 7 years,4,2,61,none,own,1,skilled,1,no,0
+225,1 - 200 DM,12,good,business,841,100 - 500 DM,4 - 7 years,2,4,23,none,rent,1,unskilled,1,no,0
+954,unknown,6,critical,furniture/appliances,1221,unknown,1 - 4 years,1,2,27,none,own,2,skilled,1,no,0
+815,1 - 200 DM,6,good,furniture/appliances,590,< 100 DM,< 1 year,3,3,26,none,own,1,unskilled,1,no,0
+473,< 0 DM,36,good,furniture/appliances,3446,< 100 DM,> 7 years,4,2,42,none,own,1,skilled,2,no,1
+348,1 - 200 DM,6,poor,business,1449,100 - 500 DM,> 7 years,1,2,31,bank,own,2,skilled,2,no,0
+506,1 - 200 DM,36,good,car,14318,< 100 DM,> 7 years,4,2,57,none,other,1,management,1,yes,1
+640,< 0 DM,48,critical,car,6143,< 100 DM,> 7 years,4,4,58,store,other,2,unskilled,1,no,1
+988,unknown,36,good,car,4686,< 100 DM,1 - 4 years,2,2,32,none,other,1,management,1,yes,0
+929,> 200 DM,6,critical,car,1323,100 - 500 DM,> 7 years,2,4,28,none,own,2,skilled,2,yes,0
+906,unknown,24,critical,education,1927,unknown,1 - 4 years,3,2,33,none,own,2,skilled,1,yes,0
+620,unknown,24,good,car,5433,unknown,unemployed,2,4,26,none,rent,1,management,1,yes,0
+856,< 0 DM,27,good,furniture/appliances,3416,< 100 DM,1 - 4 years,3,2,27,none,own,1,management,1,no,0
+804,< 0 DM,15,good,furniture/appliances,1845,< 100 DM,< 1 year,4,1,46,none,rent,1,skilled,1,no,0
+646,< 0 DM,12,critical,car,3499,< 100 DM,1 - 4 years,3,2,29,none,own,2,skilled,1,no,1
+847,unknown,27,poor,car,8613,> 1000 DM,1 - 4 years,2,2,27,none,own,2,skilled,1,no,0
+557,1 - 200 DM,9,good,furniture/appliances,959,< 100 DM,1 - 4 years,1,2,29,none,own,1,skilled,1,no,1
+958,< 0 DM,24,good,car,1285,unknown,4 - 7 years,4,4,32,none,rent,1,skilled,1,no,1
+578,> 200 DM,24,critical,furniture/appliances,3617,unknown,> 7 years,4,4,20,none,rent,2,skilled,1,no,0
+796,1 - 200 DM,12,critical,furniture/appliances,1424,< 100 DM,4 - 7 years,4,3,26,none,own,1,skilled,1,no,0
+86,< 0 DM,16,critical,car,2625,< 100 DM,> 7 years,2,4,43,bank,rent,1,skilled,1,yes,1
+243,< 0 DM,15,good,furniture/appliances,1053,< 100 DM,< 1 year,4,2,27,none,own,1,skilled,1,no,0
+699,< 0 DM,18,critical,furniture/appliances,1049,< 100 DM,< 1 year,4,4,21,none,rent,1,skilled,1,no,0
+160,< 0 DM,21,critical,car,1602,< 100 DM,> 7 years,4,3,30,none,own,2,skilled,1,yes,0
+525,1 - 200 DM,30,good,furniture/appliances,3441,100 - 500 DM,1 - 4 years,2,4,21,none,rent,1,skilled,1,no,1
+36,1 - 200 DM,26,good,car,7966,< 100 DM,< 1 year,2,3,30,none,own,2,skilled,1,no,0
+541,unknown,24,critical,furniture/appliances,2223,100 - 500 DM,> 7 years,4,4,52,bank,own,2,skilled,1,no,0
+171,< 0 DM,6,critical,car,4716,unknown,< 1 year,1,3,44,none,own,2,unskilled,2,no,0
+655,< 0 DM,21,good,furniture/appliances,1835,< 100 DM,1 - 4 years,3,2,25,none,own,2,skilled,1,yes,1
+891,unknown,9,critical,furniture/appliances,3074,unknown,1 - 4 years,1,2,33,none,own,2,skilled,2,no,0
+858,1 - 200 DM,36,good,education,2273,< 100 DM,4 - 7 years,3,1,32,none,own,2,skilled,2,no,0
+848,unknown,24,critical,furniture/appliances,1516,> 1000 DM,1 - 4 years,4,1,43,none,own,2,unskilled,1,no,0
+945,< 0 DM,36,critical,education,8065,< 100 DM,1 - 4 years,3,2,25,none,own,2,management,1,yes,1
+734,unknown,24,good,car,1393,< 100 DM,1 - 4 years,2,2,31,none,own,1,skilled,1,yes,0
+96,> 200 DM,12,good,furniture/appliances,3399,unknown,> 7 years,2,3,37,none,own,1,management,1,no,0
+564,< 0 DM,36,good,furniture/appliances,3959,< 100 DM,unemployed,4,3,30,none,own,1,management,1,yes,0
+241,unknown,21,good,car,2476,unknown,> 7 years,4,4,46,none,own,1,management,1,yes,0
+743,1 - 200 DM,24,good,furniture/appliances,4351,unknown,1 - 4 years,1,4,48,none,own,1,unskilled,1,yes,0
+575,1 - 200 DM,20,poor,car0,2629,< 100 DM,1 - 4 years,2,3,29,bank,own,2,skilled,1,yes,0
+691,unknown,12,critical,furniture/appliances,1592,> 1000 DM,4 - 7 years,3,2,35,none,own,1,skilled,1,no,0
+461,1 - 200 DM,36,good,car,9398,< 100 DM,< 1 year,1,4,28,none,rent,1,management,1,yes,1
+554,1 - 200 DM,6,very good,education,433,> 1000 DM,< 1 year,4,2,24,bank,rent,1,skilled,2,no,1
+889,unknown,36,critical,car,3535,< 100 DM,4 - 7 years,4,4,37,none,own,2,skilled,1,yes,0
+207,< 0 DM,18,good,furniture/appliances,3650,< 100 DM,< 1 year,1,4,22,none,rent,1,skilled,1,no,0
+393,1 - 200 DM,12,good,furniture/appliances,1567,< 100 DM,1 - 4 years,1,1,22,none,own,1,skilled,1,yes,0
+795,1 - 200 DM,36,poor,car,7432,< 100 DM,1 - 4 years,2,2,54,none,rent,1,skilled,1,no,0
+398,unknown,24,good,furniture/appliances,5511,100 - 500 DM,1 - 4 years,4,1,25,store,own,1,skilled,1,no,0
+767,unknown,18,perfect,business,4165,< 100 DM,1 - 4 years,2,2,36,store,own,2,skilled,2,no,1
+849,1 - 200 DM,21,critical,furniture/appliances,2745,> 1000 DM,4 - 7 years,3,2,32,none,own,2,skilled,1,yes,0
+218,1 - 200 DM,11,poor,furniture/appliances,4771,< 100 DM,4 - 7 years,2,4,51,none,own,1,skilled,1,no,0
+5,unknown,15,good,car,3556,unknown,1 - 4 years,3,2,29,none,own,1,skilled,1,no,0
+769,< 0 DM,24,good,business,6568,< 100 DM,1 - 4 years,2,2,21,store,own,1,unskilled,1,no,0
+643,unknown,6,good,renovations,660,500 - 1000 DM,4 - 7 years,2,4,23,none,rent,1,unskilled,1,no,0
+930,unknown,6,good,furniture/appliances,1543,> 1000 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,no,0
+613,< 0 DM,24,good,furniture/appliances,7721,unknown,< 1 year,1,2,30,none,own,1,skilled,1,yes,0
+739,unknown,24,good,car,1474,100 - 500 DM,< 1 year,4,3,33,none,own,1,skilled,1,yes,0
+547,1 - 200 DM,18,good,business,2622,100 - 500 DM,1 - 4 years,4,4,34,none,own,1,skilled,1,no,0
+726,unknown,6,critical,car,2080,500 - 1000 DM,1 - 4 years,1,2,24,none,own,1,skilled,1,no,0
+684,1 - 200 DM,48,good,car0,5381,unknown,unemployed,3,4,40,bank,other,1,unemployed,1,yes,0
+99,1 - 200 DM,10,very good,furniture/appliances,1048,< 100 DM,1 - 4 years,4,4,23,store,own,1,unskilled,1,no,0
+805,< 0 DM,18,good,car,7511,unknown,> 7 years,1,4,51,none,other,1,skilled,2,yes,1
+728,< 0 DM,48,good,furniture/appliances,6999,< 100 DM,4 - 7 years,1,1,34,none,own,2,skilled,1,yes,1
+574,< 0 DM,24,very good,business,3161,< 100 DM,1 - 4 years,4,2,31,none,rent,1,skilled,1,yes,1
+407,< 0 DM,36,very good,furniture/appliances,2746,< 100 DM,> 7 years,4,4,31,bank,own,1,skilled,1,no,1
+503,unknown,24,good,business,1258,< 100 DM,4 - 7 years,4,1,25,none,own,1,skilled,1,yes,0
+48,unknown,12,critical,renovations,996,unknown,4 - 7 years,4,4,23,none,own,2,skilled,1,no,0
+33,< 0 DM,12,good,education,1200,unknown,1 - 4 years,4,4,23,bank,rent,1,skilled,1,yes,0
+780,unknown,60,poor,furniture/appliances,15653,< 100 DM,4 - 7 years,2,4,21,none,own,2,skilled,1,yes,0
+840,> 200 DM,10,critical,car,781,< 100 DM,> 7 years,4,4,63,none,other,2,skilled,1,yes,0
+201,< 0 DM,18,good,furniture/appliances,2039,< 100 DM,1 - 4 years,1,4,20,bank,rent,1,skilled,1,no,1
+135,1 - 200 DM,12,good,car,1223,< 100 DM,> 7 years,1,1,46,none,rent,2,skilled,1,no,1
+28,1 - 200 DM,12,good,renovations,639,< 100 DM,1 - 4 years,4,2,30,none,own,1,skilled,1,no,1
+881,unknown,24,good,furniture/appliances,3430,500 - 1000 DM,> 7 years,3,2,31,none,own,1,skilled,2,yes,0
+231,unknown,24,poor,business,3863,< 100 DM,1 - 4 years,1,2,32,none,other,1,skilled,1,no,0
+490,unknown,15,good,car,1300,unknown,> 7 years,4,4,45,bank,other,1,skilled,2,no,0
+773,1 - 200 DM,18,critical,furniture/appliances,7374,< 100 DM,unemployed,4,4,40,store,own,2,management,1,yes,0
+379,< 0 DM,24,very good,furniture/appliances,6872,< 100 DM,< 1 year,2,1,55,bank,own,1,skilled,1,yes,1
+289,< 0 DM,13,critical,business,1797,< 100 DM,< 1 year,3,1,28,bank,own,2,unskilled,1,no,0
+419,1 - 200 DM,24,critical,furniture/appliances,4736,< 100 DM,< 1 year,2,4,25,bank,own,1,unskilled,1,no,1
+675,1 - 200 DM,60,good,car,7408,100 - 500 DM,< 1 year,4,2,24,none,own,1,management,1,no,1
+392,< 0 DM,12,good,furniture/appliances,652,< 100 DM,> 7 years,4,4,24,none,rent,1,skilled,1,no,0
+593,unknown,12,good,business,1076,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,yes,0
+499,unknown,4,good,furniture/appliances,601,< 100 DM,< 1 year,1,3,23,none,rent,1,unskilled,2,no,0
+139,unknown,36,good,furniture/appliances,10974,< 100 DM,unemployed,4,2,26,none,own,2,management,1,yes,1
+63,1 - 200 DM,15,good,renovations,2631,100 - 500 DM,1 - 4 years,3,2,25,none,own,1,unskilled,1,no,0
+472,unknown,21,poor,business,2580,500 - 1000 DM,< 1 year,4,2,41,bank,own,1,unskilled,2,no,1
+648,unknown,10,critical,furniture/appliances,2069,unknown,1 - 4 years,2,1,26,none,own,2,skilled,1,no,0
+129,1 - 200 DM,21,good,business,1188,< 100 DM,> 7 years,2,4,39,none,own,1,skilled,2,no,1
+977,< 0 DM,18,critical,car,5302,< 100 DM,> 7 years,2,4,36,none,other,3,management,1,yes,0
+521,1 - 200 DM,48,perfect,car,8358,500 - 1000 DM,< 1 year,1,1,30,none,own,2,skilled,1,no,0
+839,< 0 DM,24,good,car,2910,< 100 DM,4 - 7 years,2,1,34,none,other,1,management,1,yes,0
+963,< 0 DM,21,good,furniture/appliances,3357,> 1000 DM,< 1 year,4,2,29,bank,own,1,skilled,1,no,0
+65,1 - 200 DM,12,perfect,education,1410,< 100 DM,1 - 4 years,2,2,31,none,own,1,unskilled,1,yes,0
+813,< 0 DM,48,perfect,car,4605,< 100 DM,> 7 years,3,4,24,none,other,2,skilled,2,no,1
+15,< 0 DM,8,critical,car0,1164,< 100 DM,> 7 years,3,4,51,bank,other,2,management,2,yes,0
+157,unknown,24,poor,car,2538,< 100 DM,> 7 years,4,4,47,none,own,2,unskilled,2,no,1
+41,> 200 DM,18,good,furniture/appliances,2864,< 100 DM,1 - 4 years,2,1,34,none,own,1,unskilled,2,no,1
+493,< 0 DM,27,critical,business,2442,< 100 DM,> 7 years,4,4,43,store,own,4,management,2,yes,0
+380,1 - 200 DM,39,critical,furniture/appliances,4933,< 100 DM,4 - 7 years,2,2,25,none,own,2,skilled,1,no,1
+188,< 0 DM,12,good,education,902,< 100 DM,4 - 7 years,4,4,21,none,rent,1,skilled,1,no,1
+764,unknown,12,good,furniture/appliances,1963,< 100 DM,4 - 7 years,4,2,31,none,rent,2,management,2,yes,0
+217,unknown,24,critical,furniture/appliances,1585,< 100 DM,4 - 7 years,4,3,40,none,own,2,skilled,1,no,0
+792,unknown,24,critical,furniture/appliances,2028,< 100 DM,4 - 7 years,2,2,30,none,own,2,unskilled,1,no,0
+53,< 0 DM,24,good,car,1371,unknown,1 - 4 years,4,4,25,none,rent,1,skilled,1,no,1
+879,> 200 DM,15,critical,furniture/appliances,1271,unknown,1 - 4 years,3,4,39,none,other,2,skilled,1,yes,1
+338,1 - 200 DM,60,good,car,14027,< 100 DM,4 - 7 years,4,2,27,none,own,1,management,1,yes,1
+749,> 200 DM,10,good,furniture/appliances,1275,< 100 DM,< 1 year,4,2,23,none,own,1,skilled,1,no,0
+720,> 200 DM,4,good,car,1494,unknown,< 1 year,1,2,29,none,own,1,unskilled,2,no,0
+725,unknown,48,very good,business,3609,< 100 DM,1 - 4 years,1,1,27,store,own,1,skilled,1,no,0
+296,unknown,24,good,car,7814,< 100 DM,4 - 7 years,3,3,38,none,own,1,management,1,yes,0
+702,< 0 DM,33,critical,furniture/appliances,4281,500 - 1000 DM,1 - 4 years,1,4,23,none,own,2,skilled,1,no,1
+252,1 - 200 DM,48,good,car,8487,unknown,4 - 7 years,1,2,24,none,own,1,skilled,1,no,0
+727,< 0 DM,36,good,car,9271,< 100 DM,4 - 7 years,2,1,24,none,own,1,skilled,1,yes,1
+462,unknown,21,perfect,car,5003,unknown,1 - 4 years,1,4,29,bank,own,2,skilled,1,yes,1
+456,1 - 200 DM,18,poor,car,2899,unknown,> 7 years,4,4,43,none,own,1,skilled,2,no,0
+997,unknown,24,critical,car,4042,unknown,4 - 7 years,3,4,43,none,own,2,skilled,1,yes,0
+816,unknown,36,good,furniture/appliances,3595,< 100 DM,> 7 years,4,2,28,none,own,1,skilled,1,no,0
+863,< 0 DM,24,good,furniture/appliances,4020,< 100 DM,1 - 4 years,2,2,27,store,own,1,skilled,1,no,0
+270,unknown,22,good,furniture/appliances,2675,500 - 1000 DM,> 7 years,3,4,40,none,own,1,skilled,1,no,0
+202,unknown,24,good,furniture/appliances,3621,100 - 500 DM,> 7 years,2,4,31,none,own,2,skilled,1,no,1
+162,unknown,30,critical,furniture/appliances,6742,unknown,4 - 7 years,2,3,36,none,own,2,skilled,1,no,0
+556,unknown,4,critical,furniture/appliances,1503,< 100 DM,4 - 7 years,2,1,42,none,own,2,unskilled,2,no,0
+730,unknown,27,poor,business,5117,< 100 DM,4 - 7 years,3,4,26,none,own,2,skilled,1,no,0
+402,unknown,36,good,furniture/appliances,2394,unknown,1 - 4 years,4,4,25,none,own,1,skilled,1,no,0
+703,unknown,30,good,furniture/appliances,2333,500 - 1000 DM,> 7 years,4,2,30,bank,own,1,management,1,no,0
+477,1 - 200 DM,11,critical,car,1322,> 1000 DM,1 - 4 years,4,4,40,none,own,2,skilled,1,no,0
+822,1 - 200 DM,24,good,car,2760,unknown,> 7 years,4,4,36,bank,other,1,skilled,1,yes,0
+772,< 0 DM,12,good,furniture/appliances,3590,< 100 DM,1 - 4 years,2,2,29,none,own,1,unskilled,2,no,0
+106,1 - 200 DM,12,critical,furniture/appliances,3573,< 100 DM,1 - 4 years,1,1,23,none,own,1,unskilled,1,no,0
+566,< 0 DM,24,good,car,1207,< 100 DM,< 1 year,4,4,24,none,rent,1,skilled,1,no,1
+390,< 0 DM,28,good,car,4006,< 100 DM,1 - 4 years,3,2,45,none,own,1,unskilled,1,no,1
+2,unknown,12,critical,furniture/appliances,717,< 100 DM,> 7 years,4,4,52,none,own,3,skilled,1,no,0
+938,unknown,36,critical,car,7855,< 100 DM,1 - 4 years,4,2,25,store,own,2,skilled,1,yes,1
+983,unknown,18,critical,furniture/appliances,1098,< 100 DM,unemployed,4,4,65,none,own,2,unemployed,1,no,0
+562,1 - 200 DM,12,good,car,2028,unknown,1 - 4 years,4,2,30,none,own,1,skilled,1,no,0
+81,unknown,12,good,furniture/appliances,1123,500 - 1000 DM,1 - 4 years,4,4,29,none,rent,1,unskilled,1,no,1
+206,1 - 200 DM,45,critical,car,4576,100 - 500 DM,unemployed,3,4,27,none,own,1,skilled,1,no,0
+35,< 0 DM,42,good,furniture/appliances,7174,unknown,4 - 7 years,4,3,30,none,own,1,management,1,yes,1
+776,unknown,15,good,furniture/appliances,1213,500 - 1000 DM,> 7 years,4,3,47,store,own,1,skilled,1,yes,0
+509,< 0 DM,24,good,furniture/appliances,3021,< 100 DM,1 - 4 years,2,2,24,none,rent,1,unskilled,1,no,0
+428,unknown,12,good,furniture/appliances,1493,< 100 DM,< 1 year,4,3,34,none,own,1,skilled,2,no,0
+455,1 - 200 DM,18,critical,car,1056,< 100 DM,> 7 years,3,3,30,bank,own,2,skilled,1,no,1
+367,1 - 200 DM,48,poor,car0,7582,100 - 500 DM,unemployed,2,4,31,none,other,1,management,1,yes,0
+92,< 0 DM,18,good,furniture/appliances,3190,< 100 DM,1 - 4 years,2,2,24,none,own,1,skilled,1,no,1
+340,unknown,12,critical,furniture/appliances,3331,< 100 DM,> 7 years,2,4,42,store,own,1,skilled,1,no,0
+898,< 0 DM,30,good,furniture/appliances,3622,> 1000 DM,> 7 years,4,4,57,none,rent,2,skilled,1,yes,0
+565,unknown,24,good,car,2255,unknown,< 1 year,4,1,54,none,own,1,skilled,1,no,0
+346,< 0 DM,24,good,furniture/appliances,2996,unknown,1 - 4 years,2,4,20,none,own,1,skilled,1,no,1
+777,1 - 200 DM,30,good,furniture/appliances,3832,< 100 DM,< 1 year,2,1,22,none,own,1,skilled,1,no,0
+242,unknown,6,good,furniture/appliances,518,< 100 DM,1 - 4 years,3,1,29,none,own,1,skilled,1,no,0
+14,1 - 200 DM,30,critical,car,4249,< 100 DM,unemployed,4,2,28,none,own,2,management,1,no,1
+316,unknown,18,good,business,1950,< 100 DM,4 - 7 years,4,1,34,store,own,2,skilled,1,yes,0
+601,1 - 200 DM,30,good,furniture/appliances,1715,unknown,1 - 4 years,4,1,26,none,own,1,skilled,1,no,0
+388,1 - 200 DM,6,very good,car,931,100 - 500 DM,< 1 year,1,1,32,store,own,1,unskilled,1,no,1
+274,unknown,12,critical,furniture/appliances,1935,< 100 DM,> 7 years,4,4,43,none,own,3,skilled,1,yes,0
+167,unknown,12,critical,education,701,< 100 DM,1 - 4 years,4,2,32,none,own,2,skilled,1,no,0
+841,1 - 200 DM,36,poor,car,2862,100 - 500 DM,> 7 years,4,3,30,none,other,1,skilled,1,no,0
+993,> 200 DM,6,poor,furniture/appliances,683,< 100 DM,< 1 year,2,1,29,bank,own,1,skilled,1,no,0
+647,1 - 200 DM,18,critical,business,1887,unknown,1 - 4 years,4,4,28,bank,own,2,skilled,1,no,0
+819,1 - 200 DM,6,good,renovations,454,< 100 DM,< 1 year,3,1,22,none,own,1,unskilled,1,no,0
+485,unknown,12,good,car,2859,unknown,unemployed,4,4,38,none,own,1,management,1,yes,0
+981,1 - 200 DM,12,good,furniture/appliances,951,100 - 500 DM,< 1 year,4,4,27,bank,rent,4,skilled,1,no,1
+505,< 0 DM,24,good,car,4817,< 100 DM,4 - 7 years,2,3,31,none,own,1,skilled,1,yes,1
+832,unknown,10,good,furniture/appliances,1924,< 100 DM,1 - 4 years,1,4,38,none,own,1,skilled,1,yes,0
+244,1 - 200 DM,10,good,car,7308,< 100 DM,unemployed,2,4,70,bank,other,1,management,1,yes,0
+567,1 - 200 DM,12,good,furniture/appliances,6468,unknown,unemployed,2,1,52,none,own,1,management,1,yes,1
+876,1 - 200 DM,48,good,business,15672,< 100 DM,1 - 4 years,2,2,23,none,own,1,skilled,1,yes,1
+563,< 0 DM,47,good,car,10722,< 100 DM,< 1 year,1,1,35,none,own,1,unskilled,1,yes,0
+687,unknown,24,critical,car,2463,100 - 500 DM,4 - 7 years,4,3,27,none,own,2,skilled,1,yes,0
+190,1 - 200 DM,24,good,car0,11328,< 100 DM,1 - 4 years,2,3,29,bank,own,2,management,1,yes,1
+783,> 200 DM,18,good,furniture/appliances,3049,< 100 DM,< 1 year,1,1,45,store,own,1,unskilled,1,no,0
+700,unknown,15,good,furniture/appliances,2221,500 - 1000 DM,1 - 4 years,2,4,20,none,rent,1,skilled,1,no,0
+476,unknown,12,critical,furniture/appliances,930,unknown,> 7 years,4,4,65,none,own,4,skilled,1,no,0
+682,unknown,24,good,furniture/appliances,1311,100 - 500 DM,4 - 7 years,4,3,26,none,own,1,skilled,1,yes,0
+511,< 0 DM,6,good,furniture/appliances,428,< 100 DM,> 7 years,2,1,49,bank,own,1,skilled,1,yes,0
+59,< 0 DM,12,good,furniture/appliances,1498,< 100 DM,1 - 4 years,4,1,23,bank,own,1,skilled,1,no,0
+475,1 - 200 DM,13,critical,furniture/appliances,882,< 100 DM,< 1 year,4,4,23,none,own,2,skilled,1,no,0
+561,unknown,9,good,car,2507,500 - 1000 DM,> 7 years,2,4,51,none,other,1,unskilled,1,no,0
+857,1 - 200 DM,24,good,furniture/appliances,3092,100 - 500 DM,< 1 year,3,2,22,none,rent,1,skilled,1,yes,1
+748,1 - 200 DM,12,good,furniture/appliances,3017,< 100 DM,< 1 year,3,1,34,none,rent,1,management,1,no,0
+253,unknown,12,good,car,640,< 100 DM,1 - 4 years,4,2,49,none,own,1,unskilled,1,no,0
+22,unknown,24,critical,furniture/appliances,3777,> 1000 DM,1 - 4 years,4,4,50,none,own,1,skilled,1,yes,0
+314,1 - 200 DM,24,poor,furniture/appliances,2333,unknown,< 1 year,4,2,29,bank,own,1,unskilled,1,no,0
+460,1 - 200 DM,27,good,business,3915,< 100 DM,1 - 4 years,4,2,36,none,own,1,skilled,2,yes,1
+161,unknown,39,good,car,2569,500 - 1000 DM,1 - 4 years,4,4,24,none,own,1,skilled,1,no,0
+277,< 0 DM,24,very good,furniture/appliances,3349,500 - 1000 DM,< 1 year,4,4,30,none,other,1,skilled,2,yes,1
+956,unknown,48,good,furniture/appliances,10222,unknown,4 - 7 years,4,3,37,store,own,1,skilled,1,yes,0
+192,unknown,36,critical,car,6614,< 100 DM,> 7 years,4,4,34,none,own,2,management,1,yes,0
+386,1 - 200 DM,48,good,furniture/appliances,10961,> 1000 DM,4 - 7 years,1,2,27,bank,own,2,skilled,1,yes,1
+806,unknown,24,good,car,2603,> 1000 DM,1 - 4 years,2,4,28,none,rent,1,skilled,1,yes,0
+414,< 0 DM,6,good,car,1203,100 - 500 DM,> 7 years,3,2,43,none,own,1,skilled,1,yes,0
+492,unknown,15,good,car,3029,< 100 DM,4 - 7 years,2,2,33,none,own,1,skilled,1,no,0
+344,1 - 200 DM,36,good,education,12612,100 - 500 DM,1 - 4 years,1,4,47,none,other,1,skilled,2,yes,1
+770,1 - 200 DM,39,poor,education,11760,100 - 500 DM,4 - 7 years,2,3,32,none,rent,1,skilled,1,yes,0
+309,< 0 DM,12,very good,furniture/appliances,2149,< 100 DM,1 - 4 years,4,1,29,none,other,1,skilled,1,no,1
+662,< 0 DM,30,good,furniture/appliances,2406,< 100 DM,4 - 7 years,4,4,23,none,rent,1,skilled,1,no,1
+131,unknown,24,good,car,7393,< 100 DM,1 - 4 years,1,4,43,none,own,1,unskilled,2,no,0
+664,< 0 DM,36,critical,furniture/appliances,2348,< 100 DM,1 - 4 years,3,2,46,none,own,2,skilled,1,yes,0
+872,1 - 200 DM,12,good,car,1318,> 1000 DM,> 7 years,4,4,54,none,own,1,skilled,1,yes,0
+100,< 0 DM,24,good,furniture/appliances,3149,< 100 DM,< 1 year,4,1,22,bank,other,1,skilled,1,no,0
+373,< 0 DM,24,critical,car,2957,< 100 DM,> 7 years,4,4,63,none,own,2,skilled,1,yes,0
+88,1 - 200 DM,60,poor,furniture/appliances,7418,unknown,1 - 4 years,1,1,27,none,own,1,unskilled,1,no,0
+459,unknown,12,good,education,719,< 100 DM,> 7 years,4,4,41,bank,own,1,unskilled,2,no,1
+331,< 0 DM,21,very good,car,1647,unknown,1 - 4 years,4,2,40,none,own,2,unskilled,2,no,1
+215,> 200 DM,10,good,car,3949,< 100 DM,< 1 year,1,1,37,none,own,1,unskilled,2,no,0
+467,< 0 DM,15,good,car,1721,< 100 DM,< 1 year,2,3,36,none,own,1,skilled,1,no,0
+122,1 - 200 DM,18,critical,furniture/appliances,1928,< 100 DM,< 1 year,2,2,31,none,own,2,unskilled,1,no,1
+615,< 0 DM,8,critical,car,3398,< 100 DM,4 - 7 years,1,4,39,none,own,2,unskilled,1,no,0
+21,< 0 DM,12,good,car,1168,< 100 DM,1 - 4 years,4,3,27,none,own,1,unskilled,1,no,0
+701,1 - 200 DM,15,good,renovations,1514,100 - 500 DM,1 - 4 years,4,2,22,none,own,1,skilled,1,no,0
+72,unknown,24,good,business,4591,> 1000 DM,1 - 4 years,2,3,54,none,own,3,management,1,yes,1
+107,1 - 200 DM,12,good,car,836,100 - 500 DM,< 1 year,4,2,23,bank,own,1,unskilled,1,no,1
+271,1 - 200 DM,12,good,furniture/appliances,1092,< 100 DM,1 - 4 years,4,4,49,none,own,2,skilled,1,yes,0
+861,unknown,24,critical,car,1940,> 1000 DM,> 7 years,4,4,60,none,own,1,skilled,1,yes,0
+436,< 0 DM,36,good,car,8229,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,2,no,1
+103,unknown,36,poor,car,8947,unknown,4 - 7 years,3,2,31,store,own,1,management,2,yes,0
