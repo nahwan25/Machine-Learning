@@ -1,2 +1,3 @@
 Jenis customer segmentation:
-- Value based segmentation = "Revenue-Based Customer Segmentation"
+- Value Based Segmentation = "Revenue-Based Customer Segmentation"
+- Demographic Segmentation + Value-Based Segmentation = "Hybrid Segmentation"
